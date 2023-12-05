@@ -4,6 +4,8 @@
 		"strict": true,
 		"forceConsistentCasingInFileNames": true,
 		"allowSyntheticDefaultImports": true,
-		"esModuleInterop": true
+		"esModuleInterop": true,
+		"incremental": true,
+		"skipLibCheck": true
 	}
 }

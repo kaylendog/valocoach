@@ -1,2 +1,4 @@
-members:
+packages:
+    - ./apps/*
     - ./packages/*
+    - ./services/*

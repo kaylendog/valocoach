@@ -1,0 +1,14 @@
+{
+	"recommendations": [
+		"panicbit.cargo",
+		"serayuzgur.crates",
+		"dbaeumer.vscode-eslint",
+		"github.vscode-github-actions",
+		"tauri-apps.tauri-vscode",
+		"mike-co.import-sorter",
+		"styled-components.vscode-styled-components",
+		"zxh404.vscode-proto3",
+		"bradlc.vscode-tailwindcss",
+		"swellaby.rust-pack"
+	]
+}

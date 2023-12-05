@@ -9,6 +9,7 @@ module.exports = {
 	rules: {
 		"new-cap": "off",
 		"no-void": "off",
+		"no-undef": "off",
 		"@typescript-eslint/no-extraneous-class": "off",
 	},
 };

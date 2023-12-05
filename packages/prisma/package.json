@@ -2,7 +2,7 @@
 	"name": "@valocoach/prisma",
 	"version": "0.1.0",
 	"description": "",
-	"main": "src/index.js",
+	"main": "dist/index.js",
 	"scripts": {
 		"build": "prisma generate && tsc -p tsconfig.json"
 	},

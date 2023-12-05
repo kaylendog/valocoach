@@ -1,7 +1,6 @@
 {
 	"extends": "../../tsconfig.base.json",
 	"compilerOptions": {
-		"module": "CommonJS",
 		"declaration": true,
 		"removeComments": true,
 		"emitDecoratorMetadata": true,
@@ -11,5 +10,13 @@
 		"outDir": "./dist",
 		"baseUrl": "./"
 	},
+	"references": [
+		{
+			"path": "../../packages/api"
+		},
+		{
+			"path": "../../packages/prisma"
+		}
+	],
 	"include": ["src/**/*", "./test/**/*"]
 }

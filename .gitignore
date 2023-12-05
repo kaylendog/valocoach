@@ -146,3 +146,6 @@ Cargo.lock
 
 # TurboRepo cache files
 .turbo/
+
+# MacOS directory attributes
+.DS_Store
